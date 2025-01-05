@@ -848,7 +848,8 @@ Below details the steps taken in the youtube video to set up the resouces for th
       - Turn off High Availability
     - 2 Core Nodes 
     - 0 Task Nodes
-7. Allow SSH Traffic on Port 22 from myIp in EMR Security Group. 
+7. Allow SSH Traffic on Port 22 from myIp in EMR Security Group.
+8. chmod 400 data-engineer-portfolio.pem
 
 ### Amazon EMR Spark Tutorial
 
